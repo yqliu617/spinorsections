@@ -1,7 +1,7 @@
 # spinor-tenfold-linear-sections
 Computational material for On linear sections of the spinor tenfold II
-This repository contains computational supplementary material for the paper "On linear sections of the spinor tenfold II" written by Yingqi Liu and Laurent Manivel.
 
+This repository contains computational supplementary material for the paper "On linear sections of the spinor tenfold II" written by Yingqi Liu and Laurent Manivel.
 
 The repository contains two Jupyter notebooks providing computational support for results presented in Section 5.
 
